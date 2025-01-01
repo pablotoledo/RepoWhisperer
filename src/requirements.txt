@@ -1,0 +1,8 @@
+autogen
+GitPython
+pyautogen
+requests
+ollama
+fix-busted-json
+IPython
+jsonlines
